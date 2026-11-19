@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Hannker;Christian;;;
+FN:Christian Hannker
+ORG:Hannker Dental GmbH
+TITLE:Geschäftsführer
+TEL;TYPE=WORK,VOICE:+495443929829
+TEL;TYPE=CELL:+491705886059
+EMAIL;TYPE=WORK:info@hannker-dental.de
+URL:https://hannker-dental.de
+ADR;TYPE=WORK:;;Öhlmühle 10;Lemförde-Marl;;49448;Deutschland
+END:VCARD
